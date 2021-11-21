@@ -1,0 +1,8 @@
+infer/
+scripts/
+Dockerfile
+export.py
+gpu_resnet_benchmark.py
+mindspore_hub_conf.py
+requirements.txt
+version.ini
